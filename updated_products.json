@@ -1,0 +1,149 @@
+[
+    {
+        "Title": "Modern Automotive Solution",
+        "ID": "20",
+        "Dimensions": "3885",
+        "Details": "0",
+        "Type": "40×44×27 cm"
+    },
+    {
+        "Title": "Modern Automotive Solution",
+        "ID": "0",
+        "Dimensions": "40×44×27 cm",
+        "Details": "A powerful, portable automotive product. The Modern Automotive Solution is designed for maximum performance and user satisfaction.",
+        "Type": "Automotive"
+    },
+    {
+        "Title": "Luxury Books System",
+        "ID": "1",
+        "Dimensions": "38×30×10 cm",
+        "Details": "A compact, compact books product. The Luxury Books System is designed for maximum performance and user satisfaction.",
+        "Type": "Books"
+    },
+    {
+        "Title": "Eco-friendly Home & Kitchen Collection",
+        "ID": "2",
+        "Dimensions": "46×10×6 cm",
+        "Details": "A portable, compact home & kitchen product. The Eco-friendly Home & Kitchen Collection is designed for maximum performance and user satisfaction.",
+        "Type": "Home & Kitchen"
+    },
+    {
+        "Title": "Professional Office Bundle",
+        "ID": "3",
+        "Dimensions": "41×13×15 cm",
+        "Details": "A professional, durable office product. The Professional Office Bundle is designed for maximum performance and user satisfaction.",
+        "Type": "Office"
+    },
+    {
+        "Title": "Eco-friendly Toys Series",
+        "ID": "4",
+        "Dimensions": "23×11×22 cm",
+        "Details": "A stylish, stylish toys product. The Eco-friendly Toys Series is designed for maximum performance and user satisfaction.",
+        "Type": "Toys"
+    },
+    {
+        "Title": "Modern Books Lite",
+        "ID": "5",
+        "Dimensions": "52×36×33 cm",
+        "Details": "A compact, stylish books product. The Modern Books Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Books"
+    },
+    {
+        "Title": "Modern Home & Kitchen Pro",
+        "ID": "6",
+        "Dimensions": "36×20×17 cm",
+        "Details": "A efficient, ergonomic home & kitchen product. The Modern Home & Kitchen Pro is designed for maximum performance and user satisfaction.",
+        "Type": "Home & Kitchen"
+    },
+    {
+        "Title": "Budget Beauty Device",
+        "ID": "7",
+        "Dimensions": "25×13×23 cm",
+        "Details": "A durable, affordable beauty product. The Budget Beauty Device is designed for maximum performance and user satisfaction.",
+        "Type": "Beauty"
+    },
+    {
+        "Title": "Ultimate Office Pro",
+        "ID": "8",
+        "Dimensions": "8×16×6 cm",
+        "Details": "A compact, efficient office product. The Ultimate Office Pro is designed for maximum performance and user satisfaction.",
+        "Type": "Office"
+    },
+    {
+        "Title": "Compact Office Lite",
+        "ID": "9",
+        "Dimensions": "42×6×8 cm",
+        "Details": "A versatile, powerful office product. The Compact Office Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Office"
+    },
+    {
+        "Title": "Essential Electronics Bundle",
+        "ID": "10",
+        "Dimensions": "14×51×24 cm",
+        "Details": "A versatile, eco-friendly electronics product. The Essential Electronics Bundle is designed for maximum performance and user satisfaction.",
+        "Type": "Electronics"
+    },
+    {
+        "Title": "Eco-friendly Books Lite",
+        "ID": "11",
+        "Dimensions": "25×31×13 cm",
+        "Details": "A powerful, premium books product. The Eco-friendly Books Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Books"
+    },
+    {
+        "Title": "Budget Garden Kit",
+        "ID": "12",
+        "Dimensions": "49×24×25 cm",
+        "Details": "A efficient, powerful garden product. The Budget Garden Kit is designed for maximum performance and user satisfaction.",
+        "Type": "Garden"
+    },
+    {
+        "Title": "Portable Books Lite",
+        "ID": "13",
+        "Dimensions": "19×18×23 cm",
+        "Details": "A affordable, high-quality books product. The Portable Books Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Books"
+    },
+    {
+        "Title": "Modern Automotive Package",
+        "ID": "14",
+        "Dimensions": "25×10×8 cm",
+        "Details": "A stylish, eco-friendly automotive product. The Modern Automotive Package is designed for maximum performance and user satisfaction.",
+        "Type": "Automotive"
+    },
+    {
+        "Title": "Budget Electronics Tool",
+        "ID": "15",
+        "Dimensions": "49×23×23 cm",
+        "Details": "A powerful, portable electronics product. The Budget Electronics Tool is designed for maximum performance and user satisfaction.",
+        "Type": "Electronics"
+    },
+    {
+        "Title": "Smart Home & Kitchen Lite",
+        "ID": "16",
+        "Dimensions": "41×12×16 cm",
+        "Details": "A ergonomic, affordable home & kitchen product. The Smart Home & Kitchen Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Home & Kitchen"
+    },
+    {
+        "Title": "Classic Clothing Set",
+        "ID": "17",
+        "Dimensions": "53×31×28 cm",
+        "Details": "A stylish, innovative clothing product. The Classic Clothing Set is designed for maximum performance and user satisfaction.",
+        "Type": "Clothing"
+    },
+    {
+        "Title": "Luxury Toys Lite",
+        "ID": "18",
+        "Dimensions": "5×9×17 cm",
+        "Details": "A high-quality, eco-friendly toys product. The Luxury Toys Lite is designed for maximum performance and user satisfaction.",
+        "Type": "Toys"
+    },
+    {
+        "Title": "Smart Automotive Pro",
+        "ID": "19",
+        "Dimensions": "23×41×14 cm",
+        "Details": "A portable, versatile automotive product. The Smart Automotive Pro is designed for maximum performance and user satisfaction.",
+        "Type": "Automotive"
+    }
+]
